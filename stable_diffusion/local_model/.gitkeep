@@ -1,0 +1,3 @@
+# This directory holds the local Stable Diffusion diffusers pipeline
+# Large model files are ignored by .gitignore
+# Download and place the pipeline here using scripts/download_diffusers_model.py

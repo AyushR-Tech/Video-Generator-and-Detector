@@ -1,0 +1,6 @@
+# This directory holds model checkpoints
+# Large model files are ignored by .gitignore
+# Place or upload the following files here:
+# - progan_generator_final_2.pt
+# - best_vit_deepfake_detector.pt
+# - vae_model.pth
