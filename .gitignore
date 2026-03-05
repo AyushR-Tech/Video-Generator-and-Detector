@@ -3,14 +3,9 @@
 # Python cache & bytecode
 __pycache__/
 *.pyc
-# Local models and large binaries (but keep .gitkeep)
-stable_diffusion/local_model/*
-!stable_diffusion/local_model/.gitkeep
-models/*
-!models/.gitkeep
-progan_generator_final.pt
-vae_model.pth
-best_vit_deepfake_detector.pt
+# Local models and large binaries (NOT tracked - upload via sidebar or cloud storage)
+stable_diffusion/local_model/
+models/
 # IDE
 .vscode/
 .idea/
